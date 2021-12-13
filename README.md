@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Jaspreet SIngh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me Via 
-<a href="https://singhjaspreetb.github.io/singhjaspreetb/">Portfolio</a>
+
 <!---
 singhjaspreetb/singhjaspreetb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -66,4 +61,4 @@ console.log(`Get Set Code !!!`);
 <!-- # GitHub Stats
 ![Jaspreet SIngh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjaspreet)
  -->
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&fontSize=90)
