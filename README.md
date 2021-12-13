@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
  
 <a href="https://www.linkedin.com/in/jaspreet-singh-4b79721b4/">
   <img align="left" alt="Jaspreet Singh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> जीवेषु करुणा चापि मैत्री तेषु विधीयताम् । ❤️ <br><br>
+</a> Experience is the name everyone gives to their mistakes. ❤️ <br><br>
 
 
 ```js
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 printf("Currently learning %s", "Android");
 ```
 ```c++
-cout<<"Passionate "<< Coder & Developer <<endl;
+cout<<"Passionate "<< "Competitive Coding" <<endl;
 ```
 ```python
 print(f"Country : {India}")
@@ -43,14 +43,14 @@ console.log(`Get Set Code !!!`);
 - 🌐 &nbsp;
   ![C](https://img.shields.io/badge/-C%20Language-333333?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-C++%20-333333?style=flat&logo=c++)
-  ![Java]
+  ![Java](https://img.shields.io/badge/-Python%20-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python%20-333333?style=flat&logo=python)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/-php%20-333333?style=flat&logo=php)
-  ![MySql]
+  ![MySql](https://img.shields.io/badge/-Python%20-333333?style=flat&logo=sql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
